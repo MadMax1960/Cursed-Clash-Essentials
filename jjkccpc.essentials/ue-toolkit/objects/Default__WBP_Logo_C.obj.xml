@@ -1,0 +1,12 @@
+﻿<GameLogoWidget>
+  <ImageDataList>
+    <Item id="1"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="2"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="3"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="4"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="5"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="6"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="7"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+    <Item id="8"><ShowTime value="0" /><FadeTime value="0" /><bIsSkippable value="true" /></Item>
+  </ImageDataList>
+</GameLogoWidget>

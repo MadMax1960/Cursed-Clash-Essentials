@@ -1,0 +1,21 @@
+{
+  "ModId": "jjkccpc.essentials",
+  "ModName": "Cursed Clash Essentials",
+  "ModAuthor": "A Mudkip",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Essentials for Cursed Clash",
+  "ModDll": "jjkccpc.essentials.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/jjkccpc.essentials.dll",
+  "ModR2RManagedDll64": "x64/jjkccpc.essentials.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "jjkccpc.essentials.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}
